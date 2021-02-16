@@ -1,0 +1,23 @@
+{
+  "name": "learning-kafka",
+  "version": "1.0.0",
+  "description": "repo for studying apache kafka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciochetta/learning-kafka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciochetta/learning-kafka/issues"
+  },
+  "homepage": "https://github.com/ciochetta/learning-kafka#readme",
+  "dependencies": {
+    "kafkajs": "^1.15.0"
+  }
+}
